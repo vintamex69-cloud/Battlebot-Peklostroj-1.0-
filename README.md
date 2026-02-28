@@ -14,11 +14,24 @@ I recommend using tpu for the tires (for grip)
 __________________________________________________________________________________________
 PHOTOS:
 
-top view:
+TOP VIEW:
 <img width="507" height="500" alt="Snímek obrazovky 2026-02-28 130742" src="https://github.com/user-attachments/assets/78ca48d8-7946-4df2-83b9-24cd249ff8b9" />
-    
-front view:<img width="534" height="424" alt="Snímek obrazovky 2026-02-28 130757" src="https://github.com/user-attachments/assets/2c20019b-1793-4eaa-8e40-3a02bb23b9b1" />
-____________________________________________________________________________________________________________________
+
+FRONT VIEW:
+<img width="534" height="424" alt="Snímek obrazovky 2026-02-28 130757" src="https://github.com/user-attachments/assets/2c20019b-1793-4eaa-8e40-3a02bb23b9b1" />
+
+
+MY BOM:        
+LINK: https://docs.google.com/spreadsheets/d/1sFUCUSCvUxjoT_7rx0nNvCY5FagCCo7miQokyzaxMa4/edit?gid=0#gid=0
+<img width="648" height="532" alt="Snímek obrazovky 2026-02-28 204021" src="https://github.com/user-attachments/assets/3da4928e-79b6-4157-90b2-8a7410d66bb7" />
+
+
+
+MY SCHEMATIC: 
+
+<img width="864" height="540" alt="battlebot electric schematic" src="https://github.com/user-attachments/assets/68800e73-8e68-424f-9cfa-23a1d168f7ca" />
+
+_______________________________________________________________________________________________________________________________________________________________________
 this battlebot is inspired by the Orbitron battlebot from hacksmith industries
 
 this project is my 2nd big project and thanks to hackclub i learnt alot along the way 
