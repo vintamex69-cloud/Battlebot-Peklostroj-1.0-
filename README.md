@@ -22,3 +22,4 @@ ________________________________________________________________________________
 this battlebot is inspired by the Orbitron battlebot from hacksmith industries
 
 this project is my 2nd big project and thanks to hackclub i learnt alot along the way 
+ I made for fun lol but also to learn along the way (electronics,fusion360)
